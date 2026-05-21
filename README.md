@@ -62,10 +62,13 @@ I’m always looking to grow as an engineer, take on new challenges, and contrib
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EnocCastroVargas&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=10&rank=S,A,B" height="150" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=EnocCastroVargas&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=10&rank=S,A,B" height="130" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnocCastroVargas&show_icons=true&locale=en&theme=radical&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EnocCastroVargas&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&langs_count=8" height="150" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnocCastroVargas&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnocCastroVargas&theme=radical&hide_border=true" height="150" alt="GitHub Streak" />
 </p>
